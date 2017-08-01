@@ -6,14 +6,19 @@
 		"button.background": "#000000",
 		"editor.background": "#EDF4F7",
 		"editor.foreground": "#4d4d4c",
-		"editor.selectionBackground": "#d6d6d6",
+		"editor.selectionBackground": "#E3E8E9",
 		"editor.lineHighlightBackground": "#efefef",
+		"editorGroupHeader.tabsBackground": "#EDF4F7",
+		"editorLineNumber.foreground": "#CEDCE2",
 		"editorCursor.foreground": "#aeafad",
 		"editorWhitespace.foreground": "#d1d1d1",
 		"list.activeSelectionBackground": "#CBD4D8",
 		"sideBar.background": "#EDF4F7",
 		"statusBar.background": "#EDF4F7",
-		"statusBar.foreground": "#69BBF2"
+		"statusBar.foreground": "#8EA7B1",
+		"tab.activeForeground": "#8EA7B1",
+		"tab.inactiveBackground": "#F2F5F7",
+		"tab.border": "#E5E5E5"
 	},
 	"tokenColors": [
 		{
@@ -69,7 +74,6 @@
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
 			"settings": {
-				//"foreground": "#FF6060"
 				"foreground": "#C8A0E3"
 			}
 		},
@@ -78,7 +82,8 @@
 			"scope": "entity.name.class, entity.name.type.class, support.type, support.class",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#9A5BFF"
+				// "foreground": "#9A5BFF"
+				"foreground": "#D8B7A0"
 			}
 		},
 		{
@@ -86,7 +91,7 @@
 			"scope": "string, constant.other.symbol, entity.other.inherited-class, markup.heading",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A3B556"
+				"foreground": "#1AC9A0"
 			}
 		},
 		{
@@ -101,7 +106,7 @@
 			"scope": "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#3E999F"
+				"foreground": "#B3BCA7"
 			}
 		},
 		{
@@ -109,7 +114,7 @@
 			"scope": "keyword, storage, storage.type, entity.other.attribute-name",
 			"settings": {
 				//"foreground": "#8959A8"
-				"foreground": "#17ADFF"
+				"foreground": "#51C2FF"
 			}
 		},
 		{
