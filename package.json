@@ -1,0 +1,33 @@
+{
+	"name": "pragmatist",
+	"displayName": "Pragmatist",
+	"description": "A theme for the pragmatic. Plays best with Operator Mono.",
+	"version": "0.0.1",
+	"publisher": "hacknightly",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"license": "MIT",
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hacknightly/pragmatist.git"
+	},
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pragmatist Dawn",
+				"uiTheme": "vs",
+				"path": "./themes/Pragmatist_Dawn.json"
+			},
+			{
+				"label": "Pragmatist Dusk",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Pragmatist_Dusk.tmTheme"
+			}
+		]
+	}
+}
