@@ -7,6 +7,17 @@ class Timer extends React.Component {
     this.state = {secondsElapsed: 0};
   }
 
+  someOtherMethod() {
+    const atAll = "at all!"
+    this.isCleanCode ? "cool" : `not cool ${atAll}`;
+
+    const itutesCleanCode = {
+      wellSpaced: true,
+      wellUnderstood: true,
+      notClever: false
+    };
+  }
+
   tick() {
     this.setState((prevState) => ({
       secondsElapsed: prevState.secondsElapsed + 1
@@ -14,7 +25,7 @@ class Timer extends React.Component {
   }
 
   componentDidMount() {
-    const x = 12;
+    const x = 234;
 
     this.interval = setInterval(() => this.tick(), 1000);
   }
