@@ -1,8 +1,8 @@
 {
 	"name": "pragmatist",
 	"displayName": "Pragmatist",
-	"description": "A theme for the pragmatic. Plays best with Operator Mono.",
-	"version": "0.0.1",
+	"description": "A theme for the pragmatic. Plays best with Operator Mono during daytime hours.",
+	"version": "0.0.4",
 	"publisher": "hacknightly",
 	"engines": {
 		"vscode": "^1.13.0"
@@ -22,11 +22,6 @@
 				"label": "Pragmatist Dawn",
 				"uiTheme": "vs",
 				"path": "./themes/Pragmatist_Dawn.json"
-			},
-			{
-				"label": "Pragmatist Dusk",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Pragmatist_Dusk.tmTheme"
 			}
 		]
 	}

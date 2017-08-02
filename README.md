@@ -5,5 +5,6 @@
 
 ```
 "editor.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace"
+"workbench.colorTheme": "Pragmatist Dawn"
 ```
 
