@@ -6,6 +6,7 @@
 		"button.background": "#000000",
 		"editor.background": "#EDF4F7",
 		"editor.findMatchBackground": "#E3E8E9",
+		"editor.findMatchHighlightBackground": "#c7dee2",
 		"editor.foreground": "#4d4d4c",
 		"editor.selectionBackground": "#E3E8E9",
 		"editor.lineHighlightBackground": "#efefef",
