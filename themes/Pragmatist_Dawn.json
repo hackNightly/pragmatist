@@ -81,7 +81,7 @@
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
 			"settings": {
-				"foreground": "#F4B075"
+				"foreground": "#ffbbad"
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 			"scope": "entity.name.class, entity.name.type.class, support.type, support.class",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F1AB86"
+				"foreground": "#b89aed"
 			}
 		},
 		{
