@@ -3,12 +3,14 @@
 	"colors": {
 		"activityBar.background": "#EDF4F7",
 		"activityBar.foreground": "#CBD4D8",
+		"activityBarBadge.background": "#E59770",
+		"activityBarBadge.foreground": "#FFFFFF",
 		"button.background": "#000000",
 		"editor.background": "#EDF4F7",
 		"editor.findMatchBackground": "#E3E8E9",
 		"editor.findMatchHighlightBackground": "#c7dee2",
 		"editor.foreground": "#4d4d4c",
-		"editor.selectionBackground": "#E3E8E9",
+		"editor.selectionBackground": "#E6EEEF",
 		"editor.lineHighlightBackground": "#efefef",
 		"editorGroupHeader.tabsBackground": "#EDF4F7",
 		"editor.selectionHighlightBackground": "#E1EAEE",
@@ -20,7 +22,7 @@
 		"list.activeSelectionBackground": "#CBD4D8",
 		"list.focusBackground": "#DEE5E8",
 		"list.hoverBackground": "#E6ECEF",
-		"sideBar.background": "#EDF4F7",
+		"sideBar.background": "#EBF1F4",
 		"statusBar.background": "#EDF4F7",
 		"statusBar.foreground": "#8EA7B1",
 		"tab.activeForeground": "#8EA7B1",
@@ -59,7 +61,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#BDC0C1"
+				"foreground": "#CCD9E0"
 			}
 		},
 		{
@@ -74,14 +76,14 @@
 			"name": "Variable, String Link, Regular Expression, Tag Name",
 			"scope": "variable, support.other.variable, string.other.link, string.regexp, entity.name.tag, meta.tag, declaration.tag",
 			"settings": {
-				"foreground": "#93C28A"
+				"foreground": "#9AA2BA"
 			}
 		},
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
 			"settings": {
-				"foreground": "#ffbbad"
+				"foreground": "#FF9B9B"
 			}
 		},
 		{
@@ -89,7 +91,7 @@
 			"scope": "entity.name.class, entity.name.type.class, support.type, support.class",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#b89aed"
+				"foreground": "#8778CC"
 			}
 		},
 		{
@@ -97,21 +99,21 @@
 			"scope": "string, constant.other.symbol, entity.other.inherited-class, markup.heading",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#76C2DB"
+				"foreground": "#99C6B6"
 			}
 		},
 		{
 			"name": "Punctuations",
 			"scope": "punctuation.definition.block",
 			"settings": {
-				"foreground": "#5C5C5C"
+				"foreground": "#B7C4CC"
 			}
 		},
 		{
 			"name": "Method declarations",
 			"scope": "meta.method.declaration",
 			"settings": {
-				"foreground": "#737373"
+				"foreground": "#A5B2BA"
 			}
 		},
 		{
@@ -140,7 +142,7 @@
 			"name": "Keyword, Storage",
 			"scope": "keyword, storage, storage.type, entity.other.attribute-name",
 			"settings": {
-				"foreground": "#B5C999"
+				"foreground": "#75AA9A"
 			}
 		},
 		{
