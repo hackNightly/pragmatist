@@ -22,6 +22,11 @@
 				"label": "Pragmatist Dawn",
 				"uiTheme": "vs",
 				"path": "./themes/Pragmatist_Dawn.json"
+			},
+			{
+				"label": "Pragmatist Dusk",
+				"uiTheme": "vs",
+				"path": "./themes/Pragmatist_Dusk.json"
 			}
 		]
 	}
