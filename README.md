@@ -1,10 +1,12 @@
+![pragmatist](icon.png)
+
 # Pragmatist Theme for VSCode
 
-1. Get Operator Mono
-2. Be pragmatic.
+Light & Dark minimalist themes designed for clarity of thought.
 
-```
-"editor.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace"
-"workbench.colorTheme": "Pragmatist Dawn"
-```
+## Dawn
+![dawn](./images/pragmatist_dawn.png)
+
+## Dusk
+![dusk](./images/pragmatist_dusk.png)
 
