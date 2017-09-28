@@ -7,8 +7,6 @@
 		"activityBarBadge.background": "#595D89",
         "badge.background": "#595D89",
         "badge.foreground": "#f8f8f2",
-		"button.background": "#75715e",
-		"button.foreground": "#ffffff",
 		"debugToolBar.background": "#2E2C3D",
 		"debugExceptionWidget.background": "#543D58",
 		"debugExceptionWidget.border": "#8D4E84",
@@ -21,7 +19,7 @@
         "editor.foreground": "#f8f8f2",
         "editor.lineHighlightBackground": "#3C3A4F",
         "editor.selectionBackground": "#39374C",
-        "editorCursor.foreground": "#f8f8f0",
+        "editorCursor.foreground": "#ffffff",
         "editorGroup.border": "#414339",
         "editorGroup.dropBackground": "#41433980",
 		"editorGroupHeader.tabsBackground": "#3E3D51",
@@ -34,9 +32,10 @@
         "editorSuggestWidget.background": "#3C3A4F",
         "editorSuggestWidget.border": "#3E3D51",
         "editorWhitespace.foreground": "#464741",
-		"editorWidget.background": "#1e1f1c",
-		"extensionButton.prominentBackground": "#ffffff",
-        "focusBorder": "#353347",
+		"extensionButton.prominentHoverBackground": "#6065A0",
+		"extensionButton.prominentBackground": "#595D89",
+		"focusBorder": "#353347",
+		"foreground": "#728299",
 		"input.border": "#434663",
 		"input.background": "#434663",
 		"input.foreground": "#ffffff",
@@ -103,7 +102,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#000000",
+				"foreground": "#ffffff",
 				"background": "#ffffffff"
 			}
 		},
