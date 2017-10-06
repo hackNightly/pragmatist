@@ -16,7 +16,7 @@
 		"dropdown.foreground": "#728299",
         "dropdown.border": "#434663",
         "editor.background": "#403E54",
-        "editor.foreground": "#f8f8f2",
+        "editor.foreground": "#6A7889",
         "editor.lineHighlightBackground": "#3C3A4F",
         "editor.selectionBackground": "#39374C",
         "editorCursor.foreground": "#ffffff",
@@ -153,7 +153,7 @@
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
 			"settings": {
-				"foreground": "#FF9B9B"
+				"foreground": "#A37D8C"
 			}
 		},
 		{
@@ -169,14 +169,14 @@
 			"scope": "string, constant.other.symbol, entity.other.inherited-class, markup.heading",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#99C6B6"
+				"foreground": "#75AA9A"
 			}
 		},
 		{
 			"name": "Punctuations",
 			"scope": "punctuation.definition.block",
 			"settings": {
-				"foreground": "#B7C4CC"
+				"foreground": "#6A7889"
 			}
 		},
 		{
