@@ -101,7 +101,7 @@
 			"scope": "string, constant.other.symbol, entity.other.inherited-class, markup.heading",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#99C6B6"
+				"foreground": "#92a0b5"
 			}
 		},
 		{
